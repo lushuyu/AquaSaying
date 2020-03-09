@@ -3,9 +3,11 @@
 
 ## Build
 
-Fill in the MySQL config in `/server/app.py` and some other config in `/public/AquaSaying.js`.
+First, import `AquaSaying.sql`
 
-Then run it with `Python3`
+Then, fill in the MySQL config in `/server/app.py` and some other config in `/public/AquaSaying.js`.
+
+Last, run it with `Python3`
 
 ```py
 python3 ./server/app.py
