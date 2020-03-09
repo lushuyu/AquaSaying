@@ -1,2 +1,5 @@
-*.h linguist-language=python
-*.m linguist-language=python
+*.cpp linguist-language=python
+*.hpp linguist-language=python
+*.py linguist-language=python
+*.js linguist-language=javascript
+*.html linguist-language=html
