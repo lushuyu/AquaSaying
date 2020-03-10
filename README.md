@@ -1,5 +1,5 @@
 # AquaSaying
- AquaSaying - 💕Just Like 💧Aqua.
+ AquaSaying - 💕Just Like 💧AQUA. A simple Quote API written with python3, flask, and mysql.
 
 ## Build
 
