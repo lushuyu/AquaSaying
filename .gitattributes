@@ -1,5 +1,5 @@
 *.cpp linguist-language=c++
-*.hpp linguist-language=c++
+*.hpp linguist-language=python
 *.py linguist-language=python
 *.js linguist-language=javascript
 *.html linguist-language=html
