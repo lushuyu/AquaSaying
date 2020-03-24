@@ -1,25 +1,6 @@
 os: linux
 sudo: required
-language: python
-
-services:
-	- mysql
-
-python:
-  - "3.6"
-
-before_install:
-  - sudo mysql -e 'CREATE DATABASE AquaSaying;'
-
-install:
-  - pip install -r requirements.txt
-script:
-  - python3 ./server/app.py
-cache:
-  - pip
-branches:
-  only:
-    - master
+script: true
 
 notifications:
   email: false
