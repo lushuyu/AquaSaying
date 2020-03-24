@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 app.config['JSON_AS_ASCII'] = False
 
-_db = MySQLdb.connect(host="localhost", user="root", passwd="QAQ不给你看", db='AquaSaying', charset='utf8')
+_db = MySQLdb.connect(host="localhost", user="root", passwd="", db='AquaSaying', charset='utf8')
 _cursor = _db.cursor()
 
 @app.route('/')

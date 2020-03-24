@@ -35,7 +35,15 @@ CREATE TABLE `AquaSaying` (
 
 LOCK TABLES `AquaSaying` WRITE;
 /*!40000 ALTER TABLE `AquaSaying` DISABLE KEYS */;
-INSERT INTO `AquaSaying` VALUES (1,'One More Story!','Chika Takami'),(2,'Mikan!','Chika Takami'),(3,'Yosoro!','You Watanabe'),(4,'Yosoro','You Watanabe'),(5,'Do your Rubesty!','Ruby Korosawa');
+INSERT INTO `AquaSaying` VALUES 
+(1,'One More Story!','Chika Takami'),
+(2,'Mikan!','Chika Takami'),
+(3,'Yosoro!','You Watanabe'),
+(4,'ココロが先に飛び出すんだ','Braveheart Coaster'),
+(5,'干吧露比','Ruby Kurosawa'),
+(6,'高まってく wow','Braveheart Coaster'),
+(7,'これからだ oh yeah','Braveheart Coaster')
+;
 /*!40000 ALTER TABLE `AquaSaying` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
