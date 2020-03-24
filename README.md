@@ -10,7 +10,7 @@ Then, fill in the MySQL config in `/server/app.py` and some other config in `/pu
 Last, run it with `Python3`
 
 ```py
-python3 ./server/app.py
+python3 ./server/app.py 
 ```
 
 ## Todo List
