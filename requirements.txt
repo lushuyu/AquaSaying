@@ -55,7 +55,7 @@ pep562==1.0
 Pillow==6.2.0
 protobuf==3.9.1
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pymdown-extensions==6.1
 pyparsing==2.4.2
