@@ -50,7 +50,7 @@ multiprocess==0.70.8
 mysql==0.0.2
 mysqlclient==1.4.4
 numba==0.45.1
-numpy==1.17.2
+numpy==1.22.0
 pep562==1.0
 Pillow==6.2.0
 protobuf==3.9.1
