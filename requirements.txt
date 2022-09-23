@@ -53,7 +53,7 @@ numba==0.45.1
 numpy==1.17.2
 pep562==1.0
 Pillow==6.2.0
-protobuf==3.9.1
+protobuf==3.18.3
 pycparser==2.19
 Pygments==2.4.2
 PyHamcrest==1.9.0
