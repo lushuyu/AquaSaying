@@ -29,7 +29,7 @@ incremental==17.5.0
 inflect==2.1.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
-joblib==0.13.2
+joblib==1.2.0
 jolla==1.1.12
 jsmin==2.2.2
 jsonpatch==1.24
