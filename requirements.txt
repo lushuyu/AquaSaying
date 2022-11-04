@@ -80,7 +80,7 @@ torchfile==0.1.0
 torchvision==0.4.0+cpu
 tornado==6.0.3
 tqdm==4.36.1
-Twisted==19.7.0
+Twisted==22.10.0
 umap-learn==0.3.10
 Unidecode==1.1.1
 urllib3==1.25.5
